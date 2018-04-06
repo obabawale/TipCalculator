@@ -34,8 +34,7 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:textColorHint="@color/colorLightGray"
         android:gravity="center"
-        android:background="@android:color/transparent"
-        />
+        android:background="@android:color/transparent"/>
 
     <View
         android:layout_width="match_parent"
